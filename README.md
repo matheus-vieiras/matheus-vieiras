@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Vieira, entusiasta por tecnologia e aprendizado!
 
-- 🔭 Hoje sou Desenvolvedor Back-end Jr.
+- 🔭 Hoje sou Programador Trainee.
 - 🌱 Estudando JAVA com Spring Boot
 - 📫 Contate-me no email: matheusvieira.contato@hotmail.com
 - 😄 Pronouns: ele/dele
