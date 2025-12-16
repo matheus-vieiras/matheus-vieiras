@@ -1,46 +1,61 @@
-### Olá! Eu sou o Matheus Vieira, entusiasta por tecnologia e aprendizado!
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp6bzQyaW50b3N2bnBmNjZ1cWV2dzN6Z2Q0NXNvZWxibmZ5NGhpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+</div>
 
-- 🔭 Hoje sou Desenvolvedor de software júnior.
-- 🌱 Estudando JAVA com Spring Boot, AWS, Docker e React.
-- 📫 Contate-me no email: matheusvieira.contato@hotmail.com
-- 😄 Pronouns: ele/dele
+###
 
 <div align="center">
-  <a href="https://github.com/matheus-vieiras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-vieiras&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-vieiras&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://www.linkedin.com/in/matheus-vieira-a28879169/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href ="mailto:matheusvieira.contato@hotmail.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo" /></a>
+  <a href="https://www.instagram.com/matheusvieiras_/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Java" height="45" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Matheus-Spring" height="45" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-   <img align="center" alt="Matheus-AWS" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-   <img align="center" alt="Matheus-Docker" height="45" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Matheus-Mysql" height="45" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">  
-  <img align="center" alt="Matheus-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  
+###
+
+<h1 align="center">Olá! Eu sou o Matheus Vieira, entusiasta por tecnologia e aprendizado!</h1>
+
+###
+
+<h3 align="left">👩‍💻  Desenvolvedor de Software com experiência em aplicações de alta complexidade, atuando no back-end com Java, Spring Boot e microsserviços, e no front-end com React.</h3>
+
+###
+
+<p align="left">- 🔭 Hoje sou Desenvolvedor de software júnior<br>- 📚 Estudando JAVA com Spring Boot, AWS, Docker, Kafka e RabbitMQ .</p>
+
+###
+
+<h3 align="left">🛠 Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
- ##
- 
- <div>
-  <a href="https://www.instagram.com/matheusvieiras_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href ="mailto:matheusvieira.contato@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-vieira-a28879169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-  ![Snake animation](https://github.com/matheus-vieiras/matheus-vieiras/blob/output/github-contribution-grid-snake.svg)
-   
- </div>
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-vieiras/matheus-vieiras/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-vieiras/matheus-vieiras/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheus-vieiras/matheus-vieiras/output/pacman-contribution-graph.svg">
+</picture>
 
-
+###
